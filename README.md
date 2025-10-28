@@ -1,15 +1,28 @@
 # 🧠 Luizalabs - Back-end com Python
 
-Repositório com os estudos e desafios do curso **Back-end com Python** oferecido pela Luizalabs.
+Repositório criado para armazenar os **estudos e desafios práticos** realizados durante o bootcamp **Luizalabs - Back-end com Python**, oferecido pela **Digital Innovation One (DIO)** em parceria com a **Luizalabs**.
+
+---
 
 ## 📚 Conteúdo
 
 - [Desafio 01 - Otimizando o Sistema Bancário com Funções Python](./desafio01.py)
-- [Desafio 02 - API com Flask](./desafio_02_api_flask)
-- [Desafio 03 - Testes unitários](./desafio_03_tests)
+- [Desafio 02 - Em breve...]
+- [Desafio 03 - Em breve...]
 
-## 🧩 Tecnologias
-- Python 3.x
-- Flask
-- Pytest
-- SQLite
+---
+
+## 🧩 Tecnologias e Ferramentas
+
+- 🐍 **Python 3.x**
+- ⚡ **FastAPI** — framework principal para criação de APIs REST  
+- 🧰 **Flask** — introdução a rotas e conceitos de back-end  
+- 🧪 **Pytest** — testes automatizados  
+- 🗄️ **SQLite / PostgreSQL** — bancos de dados relacionais  
+- 🤖 **GitHub Copilot** — assistência de código por IA  
+- 🧠 **Prompt Engineering** — aplicação de IA generativa e automação via prompts  
+- 🌀 **Git & GitHub** — controle de versão e versionamento remoto
+
+---
+
+📘 *Curso em andamento — Bootcamp Luizalabs / DIO*
